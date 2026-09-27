@@ -64,3 +64,6 @@ share/locale/english/quest/pre_qc
 *.*.bAk
 *.*.baK
 *.*.bak
+
+# Built from m2dev-server-src, see mt2ps scripts/deploy-server.ps1
+share/locale/*/quest/qc.exe
