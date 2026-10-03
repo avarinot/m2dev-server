@@ -67,3 +67,6 @@ share/locale/english/quest/pre_qc
 
 # Built from m2dev-server-src, see mt2ps scripts/deploy-server.ps1
 share/locale/*/quest/qc.exe
+
+# Game rules, installed from data/rules of the mt2 repository by deploy-server.ps1 (ADR-0009)
+share/conf/rules/
